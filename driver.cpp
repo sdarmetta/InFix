@@ -1,7 +1,6 @@
 /*driver.cpp
  *
  * Salvatore D'Armetta
- * 5/11/17
  *
  * driver program that instantiates an object
  * of AlgebraicExpression, asks for an infix expression

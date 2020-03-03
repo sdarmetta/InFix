@@ -1,7 +1,6 @@
 /*stack.h
  *
  * Salvatore D'Armetta
- * 5/11/17
  *
  * stack header file to define a stack template class
  * used to create a operand or operator stack

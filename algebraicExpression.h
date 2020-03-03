@@ -1,7 +1,6 @@
 /*algebraicExpression.h
  *
  * Salvatore D'Armetta
- * 5/11/17
  *
  * header file of the algebraic expression class
  * used for declaring constructors and methods to

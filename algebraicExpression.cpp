@@ -1,7 +1,6 @@
 /*algebraicExpression.cpp
  *
  * Salvatore D'Armetta
- * 5/11/17
  *
  * source file for the AlgebraicExpression class
  * defining all constructor and methods of the class
